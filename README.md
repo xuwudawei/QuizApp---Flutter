@@ -1,4 +1,4 @@
-# flutter_complete_section
+# Quiz_App
 
 A new Flutter project.
 
